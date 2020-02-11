@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+
+
         Button allTaskButton = findViewById(R.id.button2);
         allTaskButton.setOnClickListener(new View.OnClickListener() {
             @Override
